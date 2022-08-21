@@ -3,7 +3,8 @@
 
 ### Hi there 👋, Satyajit Sahu
 #### Full Stack Developer
-I am Satyajit Sahu, a full stack developer. I love design and development. Currently, I am proficient in HTML, CSS, JavaScript, React.  I am learning MongoDB and Express.
+I am Satyajit Sahu, a full stack developer. I love design and development. I am proficient in HTML, CSS, JavaScript, React.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
 Skills:  
