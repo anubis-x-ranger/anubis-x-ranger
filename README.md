@@ -21,7 +21,7 @@ Skills:
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubis-x-ranger&label=Profile%20views&color=0e75b6&style=flat" alt="anubis-x-ranger" /> </p>
 
