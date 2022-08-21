@@ -20,3 +20,20 @@ Skills:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anubis-x-ranger)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubis-x-ranger&label=Profile%20views&color=0e75b6&style=flat" alt="anubis-x-ranger" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubis-x-ranger" alt="anubis-x-ranger" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubis-x-ranger&show_icons=true&locale=en&layout=compact" alt="anubis-x-ranger" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubis-x-ranger&show_icons=true&locale=en" alt="anubis-x-ranger" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubis-x-ranger&" alt="anubis-x-ranger" /></p>
+
