@@ -112,12 +112,4 @@ https://www.linkedin.com/in/satyajit-sahu-34396318b/
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=anubis-x-ranger&show_icons=true&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubis-x-ranger&show_icons=true)
-
----
-
 > *Building systems, not just writing code.*
