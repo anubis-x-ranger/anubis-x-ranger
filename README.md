@@ -57,7 +57,7 @@ All projects are structured like **startup-ready repositories** with clear archi
 
 ### Databases
 - MongoDB
-- MySQL
+- PgSQL
 - Supabase
 - SSMS
 
